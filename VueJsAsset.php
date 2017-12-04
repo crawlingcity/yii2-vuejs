@@ -6,7 +6,7 @@
  * @author Prawee Wongsa <konkeanweb@gmail.com>
  * @license BSD-3-Clause
  */
-namespace prawee\vuejs;
+namespace crawlingcity\vuejs;
 
 use yii\web\AssetBundle;
 
