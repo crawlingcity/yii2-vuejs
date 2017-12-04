@@ -1,7 +1,7 @@
 {
     "name": "crawlingcity/yii2-vuejs",
     "version": "1.0",
-    "description": "Vue.js library for Yii2 base on prawee",
+    "description": "Vue.js library for Yii2 based on prawee",
     "type": "yii2-library",
     "keywords": [
         "yii2",
@@ -19,7 +19,7 @@
     ],
     "require": {
         "yiisoft/yii2": ">=2.0.10",
-        "bower-asset/vue": "dev"
+        "bower-asset/vue": "*"
     },
     "autoload": {
         "psr-4": {
