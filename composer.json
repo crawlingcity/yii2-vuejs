@@ -1,7 +1,7 @@
 {
-    "name": "prawee/yii2-vuejs",
+    "name": "crawlingcity/yii2-vuejs",
     "version": "1.0",
-    "description": "Vue.js library for Yii2",
+    "description": "Vue.js library for Yii2 base on prawee",
     "type": "yii2-library",
     "keywords": [
         "yii2",
@@ -10,16 +10,16 @@
         "vue"
     ],
     "license": "MIT",
-    "homepage": "https://github.com/prawee/yii2-vuejs.git",
+    "homepage": "https://github.com/crawlingcity/yii2-vuejs",
     "authors": [
         {
-            "name": "Prawee Wongsa",
-            "email": "konkeanweb@gmail.com"
+            "name": "crawlingcity",
+            "email": "crawlingcity@gmail.com"
         }
     ],
     "require": {
         "yiisoft/yii2": ">=2.0.10",
-        "bower-asset/vue": "@dev"
+        "bower-asset/vue": "dev"
     },
     "autoload": {
         "psr-4": {
