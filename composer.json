@@ -1,13 +1,14 @@
 {
     "name": "crawlingcity/yii2-vuejs",
-    "version": "1.0",
+    "version": "1.1",
     "description": "Vue.js library for Yii2 based on prawee",
     "type": "yii2-library",
     "keywords": [
         "yii2",
         "library",
         "vuejs2",
-        "vue"
+        "vue",
+        "yii2-vue"
     ],
     "license": "MIT",
     "homepage": "https://github.com/crawlingcity/yii2-vuejs",
@@ -18,8 +19,7 @@
         }
     ],
     "require": {
-        "yiisoft/yii2": ">=2.0.10",
-        "bower-asset/vue": "~2.5.9"
+        "yiisoft/yii2": ">=2.0.11"
     },
     "autoload": {
         "psr-4": {
